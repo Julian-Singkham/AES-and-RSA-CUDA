@@ -1,0 +1,3 @@
+This file is need to retain the build folder in source control.
+
+Run `cmake ../source` in this directory to generate the executables.
